@@ -16,5 +16,10 @@
       <option name="name" value="MavenRepo" />
       <option name="url" value="https://repo.maven.apache.org/maven2/" />
     </remote-repository>
+    <remote-repository>
+      <option name="id" value="507b6120-9e4c-4a7b-b58a-b8c7ab7a83ec" />
+      <option name="name" value="507b6120-9e4c-4a7b-b58a-b8c7ab7a83ec" />
+      <option name="url" value="https://https://github.com/jesuspachecoramirez" />
+    </remote-repository>
   </component>
 </project>
