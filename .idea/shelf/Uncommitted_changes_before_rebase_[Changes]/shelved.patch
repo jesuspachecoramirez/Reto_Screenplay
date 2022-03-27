@@ -1,0 +1,37 @@
+Index: src/test/java/Stepdefinition.java
+===================================================================
+diff --git a/src/test/java/Stepdefinition.java b/src/test/java/Stepdefinition.java
+deleted file mode 100644
+--- a/src/test/java/Stepdefinition.java	(revision 676c01fcd5d97bbb6f8328d1c49a4ef7474128c7)
++++ /dev/null	(revision 676c01fcd5d97bbb6f8328d1c49a4ef7474128c7)
+@@ -1,2 +0,0 @@
+-public class Stepdefinition {
+-}
+Index: .idea/jarRepositories.xml
+===================================================================
+diff --git a/.idea/jarRepositories.xml b/.idea/jarRepositories.xml
+deleted file mode 100644
+--- a/.idea/jarRepositories.xml	(revision 676c01fcd5d97bbb6f8328d1c49a4ef7474128c7)
++++ /dev/null	(revision 676c01fcd5d97bbb6f8328d1c49a4ef7474128c7)
+@@ -1,20 +0,0 @@
+-<?xml version="1.0" encoding="UTF-8"?>
+-<project version="4">
+-  <component name="RemoteRepositoriesConfiguration">
+-    <remote-repository>
+-      <option name="id" value="central" />
+-      <option name="name" value="Maven Central repository" />
+-      <option name="url" value="https://repo1.maven.org/maven2" />
+-    </remote-repository>
+-    <remote-repository>
+-      <option name="id" value="jboss.community" />
+-      <option name="name" value="JBoss Community repository" />
+-      <option name="url" value="https://repository.jboss.org/nexus/content/repositories/public/" />
+-    </remote-repository>
+-    <remote-repository>
+-      <option name="id" value="MavenRepo" />
+-      <option name="name" value="MavenRepo" />
+-      <option name="url" value="https://repo.maven.apache.org/maven2/" />
+-    </remote-repository>
+-  </component>
+-</project>
+\ No newline at end of file

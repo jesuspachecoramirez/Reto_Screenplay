@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><testsuite errors="1" failures="0" name="Habilidades de pokemon" skipped="0" tests="1" time="7.83" timestamp="2022-03-24 03:01:12"><testcase name="Pokemon que tiene la habilidad"><error type="net.serenitybdd.core.exceptions.UnrecognisedException"/><system-err>null&#13;
+com.fasterxml.jackson.databind.exc.InvalidDefinitionException.from(InvalidDefinitionException.java:67)&#13;
+com.fasterxml.jackson.databind.DeserializationContext.reportBadDefinition(DeserializationContext.java:1904)&#13;
+com.fasterxml.jackson.databind.DatabindContext.reportBadDefinition(DatabindContext.java:400)&#13;
+com.fasterxml.jackson.databind.DeserializationContext.handleMissingInstantiator(DeserializationContext.java:1349)&#13;
+com.fasterxml.jackson.databind.deser.BeanDeserializerBase.deserializeFromObjectUsingNonDefault(BeanDeserializerBase.java:1415)&#13;
+com.fasterxml.jackson.databind.deser.BeanDeserializer.deserializeFromObject(BeanDeserializer.java:351)&#13;
+com.fasterxml.jackson.databind.deser.BeanDeserializer.deserialize(BeanDeserializer.java:184)&#13;
+com.fasterxml.jackson.databind.deser.DefaultDeserializationContext.readRootValue(DefaultDeserializationContext.java:322)&#13;
+com.fasterxml.jackson.databind.ObjectMapper._readMapAndClose(ObjectMapper.java:4674)&#13;
+com.fasterxml.jackson.databind.ObjectMapper.readValue(ObjectMapper.java:3629)&#13;
+io.restassured.internal.path.json.mapping.JsonPathJackson2ObjectDeserializer.deserialize(JsonPathJackson2ObjectDeserializer.groovy:47)&#13;
+io.restassured.internal.mapping.Jackson2Mapper.deserialize(Jackson2Mapper.groovy:58)&#13;
+io.restassured.internal.mapping.ObjectMapping.parseWithJackson2(ObjectMapping.groovy:204)&#13;
+io.restassured.internal.mapping.ObjectMapping.deserialize(ObjectMapping.groovy:57)&#13;
+io.restassured.internal.RestAssuredResponseOptionsGroovyImpl.as(RestAssuredResponseOptionsGroovyImpl.groovy:220)&#13;
+io.restassured.internal.RestAssuredResponseOptionsImpl.as(RestAssuredResponseOptionsImpl.java:166)&#13;
+net.serenitybdd.rest.decorators.ResponseDecorated.as(ResponseDecorated.java:63)&#13;
+co.com.sofka.question.pokeapi.SingleAbilityResponse.answeredBy(SingleAbilityResponse.java:19)&#13;
+co.com.sofka.stepdefinition.pokeapi.SingleAbilityStepDefinition.observaQueUnoDeLosPokemonQueTieneEsaHabilidadEs(SingleAbilityStepDefinition.java:42)&#13;
+✽.observa que uno de los pokemon que tiene esa habilidad es "gloom"(file:///C:/Users/S410p%20Touch/Documents/5.GuardarLenguajes/Carpeta_Java/Sofka/RetoScreenplay/src/test/resources/features/pokeapi/singleAbility.feature:12)&#13;
+</system-err></testcase></testsuite>
