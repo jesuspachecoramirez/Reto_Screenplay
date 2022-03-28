@@ -5,62 +5,24 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f30e8d1e-7ea3-45b7-8691-7f644475be29" name="Changes" comment="Reto Screenplay">
-      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/dictionaries/Jhesu.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/co/com/sofka/Models/pokeapi/DamageRelations.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/co/com/sofka/Models/pokeapi/DoubleDamageFrom.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/co/com/sofka/Models/pokeapi/DoubleDamageTo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/co/com/sofka/Models/pokeapi/GameIndex.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/co/com/sofka/Models/pokeapi/Generation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/co/com/sofka/Models/pokeapi/Generation__1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/co/com/sofka/Models/pokeapi/HalfDamageFrom.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/co/com/sofka/Models/pokeapi/HalfDamageTo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/co/com/sofka/Models/pokeapi/Language.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/co/com/sofka/Models/pokeapi/Move.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/co/com/sofka/Models/pokeapi/MoveDamageClass.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/co/com/sofka/Models/pokeapi/Name.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/co/com/sofka/Models/pokeapi/Pokemon.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/co/com/sofka/Models/pokeapi/PokemonTypes.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/co/com/sofka/Models/pokeapi/Pokemon__1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/co/com/sofka/Models/regres/Data.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/co/com/sofka/Models/regres/Support.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/co/com/sofka/Models/regres/UpdateUserInfo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/co/com/sofka/Models/regres/Userdata.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/co/com/sofka/questions/common/ResponseCode.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/co/com/sofka/questions/pokeapi/PokemonType.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/co/com/sofka/questions/regres/UserFind.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/co/com/sofka/tasks/pokeapi/GetTypeClass.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/co/com/sofka/tasks/regress/ListUser.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/co/com/sofka/tasks/regress/UpdateUser.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/co/com/sofka/tasks/regress/UserName.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/co/com/sofka/util/FileUtilities.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/co/com/sofka/util/Log4jValues.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/co/com/sofka/util/PokeApiKey.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/log4j2.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/co/com/sofka/Stepdefinition/common/ServiceSetup.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/co/com/sofka/Stepdefinition/pokeApi/TypeClassStepDefinition.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/co/com/sofka/Stepdefinition/regres/UserRegresStepDefinition.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/co/com/sofka/runner/pokeapi/TypeClassTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/co/com/sofka/runner/regress/UserTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/resources/features/pokeapi/typeClassPokeapi.feature" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/resources/features/regres/UserRegres.feature" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/jarRepositories.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__org_apiguardian_apiguardian_api_1_1_2.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__org_junit_jupiter_junit_jupiter_api_5_8_1.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__org_junit_jupiter_junit_jupiter_engine_5_8_1.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__org_junit_platform_junit_platform_commons_1_8_1.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__org_junit_platform_junit_platform_engine_1_8_1.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__org_opentest4j_opentest4j_1_2_0.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules/Reto_Screenplay.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules/Reto_Screenplay.main.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules/Reto_Screenplay.test.iml" beforeDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/co/com/sofka/questions/pokeapi/PokemonType2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/co/com/sofka/util/UserRegresKey.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Stepdefinition.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/co/com/sofka/questions/common/ResponseCode.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/co/com/sofka/questions/common/ResponseCode.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/co/com/sofka/questions/pokeapi/PokemonType.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/co/com/sofka/questions/pokeapi/PokemonType.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/co/com/sofka/questions/regres/UserFind.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/co/com/sofka/questions/regres/UserFind.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/co/com/sofka/tasks/pokeapi/GetTypeClass.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/co/com/sofka/tasks/pokeapi/GetTypeClass.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/co/com/sofka/tasks/regress/ListUser.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/co/com/sofka/tasks/regress/ListUser.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/co/com/sofka/tasks/regress/UpdateUser.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/co/com/sofka/tasks/regress/UpdateUser.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/co/com/sofka/tasks/regress/UserName.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/co/com/sofka/tasks/regress/UserName.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/co/com/sofka/util/PokeApiKey.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/co/com/sofka/util/PokeApiKey.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/co/com/sofka/Stepdefinition/pokeApi/TypeClassStepDefinition.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/co/com/sofka/Stepdefinition/pokeapi/TypeClassStepDefinition.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/co/com/sofka/Stepdefinition/regres/UserRegresStepDefinition.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/co/com/sofka/Stepdefinition/regres/UserRegresStepDefinition.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/co/com/sofka/runner/pokeapi/TypeClassTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/co/com/sofka/runner/pokeapi/TypeClassTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/co/com/sofka/runner/regress/UserTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/co/com/sofka/runner/regress/UserRegresTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/resources/features/pokeapi/typeClassPokeapi.feature" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/resources/features/pokeapi/typeClass.feature" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/resources/features/regres/UserRegres.feature" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/resources/features/regres/UserRegres.feature" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -93,9 +55,9 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Enum" />
         <option value="Substep Feature" />
         <option value="Class" />
+        <option value="Enum" />
       </list>
     </option>
   </component>
@@ -117,7 +79,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="SONARLINT_PRECOMMIT_ANALYSIS" value="true" />
-    <property name="last_opened_file_path" value="$USER_HOME$/Desktop/RetoScreenplayRest-main" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
@@ -155,15 +117,15 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Feature: typeClassPokeapi" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java" temporary="true" nameIsGenerated="true">
+    <configuration name="Feature: typeClass" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java" temporary="true" nameIsGenerated="true">
       <option name="CUCUMBER_CORE_VERSION" value="5" />
-      <option name="FILE_PATH" value="$PROJECT_DIR$/src/test/resources/features/pokeapi/typeClassPokeapi.feature" />
-      <option name="GLUE" value="net.serenitybdd.cucumber.actors co.com.sofka.Stepdefinition.pokeApi" />
+      <option name="FILE_PATH" value="$PROJECT_DIR$/src/test/resources/features/pokeapi/typeClass.feature" />
+      <option name="GLUE" value="net.serenitybdd.cucumber.actors co.com.sofka.Stepdefinition.pokeapi" />
       <option name="MAIN_CLASS_NAME" value="io.cucumber.core.cli.Main" />
       <module name="Reto_Screenplay.test" />
       <option name="PROGRAM_PARAMETERS" value=" --plugin org.jetbrains.plugins.cucumber.java.run.CucumberJvm5SMFormatter" />
       <shortenClasspath name="MANIFEST" />
-      <option name="SUGGESTED_NAME" value="Feature: typeClassPokeapi" />
+      <option name="SUGGESTED_NAME" value="Feature: typeClass" />
       <option name="WORKING_DIRECTORY" value="$MODULE_WORKING_DIR$" />
       <extension name="coverage">
         <pattern>
@@ -175,16 +137,15 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Scenario: El tipo de pokemon fuerte" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java" temporary="true" nameIsGenerated="true">
+    <configuration name="Feature: typeClassPokeapi" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java" temporary="true" nameIsGenerated="true">
       <option name="CUCUMBER_CORE_VERSION" value="5" />
       <option name="FILE_PATH" value="$PROJECT_DIR$/src/test/resources/features/pokeapi/typeClassPokeapi.feature" />
       <option name="GLUE" value="net.serenitybdd.cucumber.actors co.com.sofka.Stepdefinition.pokeApi" />
       <option name="MAIN_CLASS_NAME" value="io.cucumber.core.cli.Main" />
       <module name="Reto_Screenplay.test" />
-      <option name="NAME_FILTER" value="^El tipo de pokemon fuerte$" />
-      <option name="PROGRAM_PARAMETERS" value=" --plugin org.jetbrains.plugins.cucumber.java.run.CucumberJvm5SMFormatter --name &quot;^El tipo de pokemon fuerte$&quot;" />
+      <option name="PROGRAM_PARAMETERS" value=" --plugin org.jetbrains.plugins.cucumber.java.run.CucumberJvm5SMFormatter" />
       <shortenClasspath name="MANIFEST" />
-      <option name="SUGGESTED_NAME" value="Scenario: El tipo de pokemon fuerte" />
+      <option name="SUGGESTED_NAME" value="Feature: typeClassPokeapi" />
       <option name="WORKING_DIRECTORY" value="$MODULE_WORKING_DIR$" />
       <extension name="coverage">
         <pattern>
@@ -224,7 +185,7 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="UserTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="UserRegresTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Reto_Screenplay.test" />
       <shortenClasspath name="MANIFEST" />
       <extension name="coverage">
@@ -234,7 +195,7 @@
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="co.com.sofka.runner.regress" />
-      <option name="MAIN_CLASS_NAME" value="co.com.sofka.runner.regress.UserTest" />
+      <option name="MAIN_CLASS_NAME" value="co.com.sofka.runner.regress.UserRegresTest" />
       <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -250,10 +211,10 @@
     <recent_temporary>
       <list>
         <item itemvalue="Cucumber Java.Feature: UserRegres" />
-        <item itemvalue="Cucumber Java.Scenario: Validar un usuario existente" />
-        <item itemvalue="JUnit.UserTest" />
+        <item itemvalue="Cucumber Java.Feature: typeClass" />
         <item itemvalue="Cucumber Java.Feature: typeClassPokeapi" />
-        <item itemvalue="Cucumber Java.Scenario: El tipo de pokemon fuerte" />
+        <item itemvalue="Cucumber Java.Scenario: Validar un usuario existente" />
+        <item itemvalue="JUnit.UserRegresTest" />
       </list>
     </recent_temporary>
   </component>
@@ -273,7 +234,21 @@
       <option name="project" value="LOCAL" />
       <updated>1648091631166</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Reto Screenplay">
+      <created>1648410378886</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1648410378886</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Reto Screenplay">
+      <created>1648410570483</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1648410570483</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">

@@ -6,6 +6,10 @@ import net.serenitybdd.screenplay.Actor;
 import net.serenitybdd.screenplay.Question;
 
 public class UserFind implements Question {
+
+    public static UserFind userFind() {
+        return new UserFind();
+    }
     @Override
     public Data answeredBy(Actor actor) {
         return SerenityRest.lastResponse().as(Data.class);

@@ -7,6 +7,10 @@ import net.serenitybdd.screenplay.Question;
 
 public class PokemonType implements Question {
 
+
+    public static PokemonType pokemonType() {
+        return new PokemonType();
+    }
     @Override
     public PokemonTypes answeredBy(Actor actor) {
 

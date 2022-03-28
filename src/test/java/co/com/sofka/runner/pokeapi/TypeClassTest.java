@@ -8,8 +8,8 @@ import org.junit.runner.RunWith;
 @RunWith(CucumberSerenityRunner.class)
 @CucumberOptions(
         snippets = CucumberOptions.SnippetType.CAMELCASE,
-        features = {"src/test/resources/features/pokeapi/typeClassPokeapi.feature"},
-        glue = {"co.com.sofka.stepdefinition.pokeapi"}
+        features = {"src/test/resources/features/"},
+        glue = {"co.com.sofka.Stepdefinition"}
 )
 public class TypeClassTest {
 

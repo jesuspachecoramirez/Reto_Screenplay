@@ -7,7 +7,7 @@ Feature: Datos de usuarios
   para poder verificar la base de datos
 
   Scenario: Validar un usuario existente
-    Given se necesita verificar la existencia del usuario con id = <numId>
+    Given se necesita verificar la existencia del usuario con id = 2
     When el cliente recibe la informacion solicitada si se encuentra
 
 

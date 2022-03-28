@@ -11,5 +11,5 @@ import org.junit.runner.RunWith;
         features = {"src/test/resources/features/regres/UserRegres.feature"},
         glue = {"co.com.sofka.stepdefinition.regres"}
 )
-public class UserTest {
+public class UserRegresTest {
 }

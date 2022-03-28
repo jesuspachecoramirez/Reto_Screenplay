@@ -1,11 +1,10 @@
 package co.com.sofka.util;
 
-public enum PokeApiKey {
-    TYPE_CLASS_RESOURCE("/api/v2/type/{NumOrName}");
-
+public enum UserRegresKey {
+    UPDATE_USER_RESOURCE("/api/users/{id}");
     private final String value;
 
-    PokeApiKey(String value) {
+    UserRegresKey(String value) {
 
         this.value = value;
     }
